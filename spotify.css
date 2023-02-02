@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+
+.nav-item{
+    color: white;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.navbar{
+    margin-right: 33px;
+    display: block
+}
+
+.navbar-toggler-icon{
+    color: white !important;
+}
+
+.green-sec{
+    background-color: rgb(25, 230, 140);
+    height: 500px;
+    width: 100%;
+}
+
+.green-circle{
+    margin-left: -66px;
+    height: 27px;
+}
+
+.tick{
+    margin-left: -27px;
+}
+
+
+
+
+.dwnld-btn{
+    border-radius: 30px;
+    border: 0px;
+    width: 141px;
+    height: 46px;
+}
+
+.white-sec{
+    height: 350px;
+    width: 100%;
+}
+
+.black-sec{
+    background-color:rgb(34, 35, 38);
+    height: 450px;
+    width: 100%;
+    margin-top: 100px;
+}
+
+.menu-link{
+    margin-left: 400px;
+}
+
+.black-section{
+    background-color: black;
+}
+
+a:hover{
+    color: green !important;
+}
+
+dd:hover{
+    color: green !important;
+}
+
+dt{
+    color: darkgray;
+    font-size: 17px;
+}
+
+dd{
+    color: white;
+    font-size: 14px;
+}
+
+.black-section{
+    height: 500px;
+}
+
+.list3{
+    font-size: 10px;
+}
+
+@media only screen and (max-width: 600px) {
+    .navbar-brand{
+        margin-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+   .green-sec{
+    text-decoration: solid;
+   }
+}
+
+@media only screen and (max-width: 600px) {
+    .all-img{
+        height: 100px;
+        width: 500px;
+        margin-left: -50px;
+    }
+ }
+
+ @media only screen and (max-width: 600px) {
+
+    html{
+        overflow-x: hidden;
+    }
+
+    body{
+        overflow-x: hidden;
+        
+        }
+ }
+
+ 
+ @media only screen and (max-width: 600px) {
+    .black-section{
+        height: 800px;
+    }
+ }
+
+ @media only screen and (max-width: 600px) {
+    
+ }
+ .lastlist li{
+    list-style: none;
+    display: inline;
+ }
+
